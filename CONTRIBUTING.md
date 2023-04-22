@@ -28,4 +28,4 @@ If you encounter a bug or have a feature request, please open a new issue on the
 
 If you have questions or need help with the project, please use the repository's "Discussions" page or reach out to the maintainers.
 
-Thank you for contributing to pdf_to_txt_converter!
+Thank you for contributing to pdf_to_txt_converter !
